@@ -1,0 +1,12 @@
+{
+    "description": "Ali Akbar Project Samples",
+    "repo": "https://github.com/devaliakbar",
+    "owner": {
+        "username": "devaliakbar",
+        "email": "dev.aliakbar@gmail.com"
+    },
+    "record": {
+        "CNAME": "aliakbar.tk",
+        "URL": "https://ali.is-a.dev"
+    }
+}
